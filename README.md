@@ -51,5 +51,11 @@ Profissional em formação na área de segurança ofensiva e automação com IA,
 ✉️ simoneazevedorosa@gmail.com
 ---
 
-🧷 *Este repositório representa minha trajetória prática e real na construção de conhecimento técnico em cibersegurança. Cada pasta aqui é parte do meu aprendizado e preparação para atuar em projetos profissionais.*  
+
+
+🔒 **Este repositório reflete minha jornada prática na construção de competências sólidas em cibersegurança ofensiva e defensiva.**  
+Cada diretório representa um passo intencional rumo à atuação em projetos técnicos com ética, curiosidade e evolução contínua.
+
+---
+
 
