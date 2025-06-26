@@ -1,31 +1,56 @@
+# 🧠 Simone A. Rosa – Portfólio Técnico em Cibersegurança e IA
 
-# Bugcrowd Training – Simone A. Rosa
+Profissional em formação na área de segurança ofensiva e automação com IA, com foco em:
 
-Este repositório reúne meus estudos, relatórios simulados e treinamentos práticos realizados no contexto de programas de Bug Bounty, com foco em segurança ofensiva e análise de vulnerabilidades.
+- Testes de vulnerabilidades simuladas
+- Reconhecimento com Nmap e Shodan
+- Criação de dorks e coleta OSINT
+- Análise de comportamento de IAs (LLMs)
+- Red Team em formação com produção de relatórios técnicos
 
-## 📌 Objetivos
+---
 
-- Aprimorar habilidades em identificação e exploração de falhas de segurança
-- Produzir relatórios técnicos claros e bem documentados
-- Praticar condutas éticas e responsáveis em ambientes controlados
-- Construir um portfólio sólido em cibersegurança
+## 🔐 Áreas de Atuação
 
-## 🧠 Áreas de Interesse
+| Área                      | Ferramentas e Práticas                                  |
+|---------------------------|---------------------------------------------------------|
+| Segurança Ofensiva        | Nmap · OSSTMM · Fingerprinting · Reconhecimento         |
+| Testes em IA              | Prompts adversariais · LLM Behavior · Automação ética   |
+| OSINT e Dorks             | Google Dorks · Shodan · Mapeamento de superfícies       |
+| Automação                 | Python · Scripts para análise · Port Scanners           |
+| Documentação Técnica      | Markdown · GitHub · Relatórios Bug Bounty               |
 
-- Web Application Security  
-- Reconhecimento e Footprinting  
-- OWASP Top 10  
-- Análise de APIs  
-- Automação com Python  
-- Programas Bugcrowd & HackerOne
+---
 
 ## 📁 Estrutura do Repositório
 
-## 🔒 Observação
-
-Todos os testes realizados aqui são **educacionais e éticos**, seguindo as diretrizes de divulgação da Bugcrowd e outras plataformas de segurança colaborativa.
+- `/relatorios` → Vulnerabilidades simuladas: IDOR, XSS, CSRF  
+- `/anotacoes` → Estudos práticos: OWASP Top 10, OSSTMM, Nmap  
+- `/scripts` → Códigos úteis para reconhecimento e automação
 
 ---
-Simone A. Rosa  
-Pesquisadora em Segurança Cibernética | GitHub: [@simonetech25](https://github.com/simonetech25)
+
+## 🔭 Projetos em desenvolvimento
+
+- 🔧 Scanner Nmap automatizado com parsing inteligente  
+- 🧪 Simulações de comportamento de IA com prompts modificados  
+- 📊 Dashboard com dados coletados via OSINT
+
+---
+
+## 📡 Ferramentas em uso
+
+- `nmap` · `shodan` · `Python` · `GitHub` · `Markdown` · `CS50` · `Cisco`
+
+---
+
+## 🌐 Contato
+
+🔗 [LinkedIn – Clique aqui](https://linkedin.com/in/simonetech25)  
+📁 GitHub: [simonetech25](https://github.com/simonetech25)  
+✉️ (adicione seu e-mail quando quiser)
+
+---
+
+🧷 *Este repositório representa minha trajetória prática e real na construção de conhecimento técnico em cibersegurança. Cada pasta aqui é parte do meu aprendizado e preparação para atuar em projetos profissionais.*  
 
