@@ -48,8 +48,7 @@ Profissional em formação na área de segurança ofensiva e automação com IA,
 
 🔗 [LinkedIn – Clique aqui](https://linkedin.com/in/simonetech25)  
 📁 GitHub: [simonetech25](https://github.com/simonetech25)  
-✉️ (adicione seu e-mail quando quiser)
-
+✉️ simoneazevedorosa@gmail.com
 ---
 
 🧷 *Este repositório representa minha trajetória prática e real na construção de conhecimento técnico em cibersegurança. Cada pasta aqui é parte do meu aprendizado e preparação para atuar em projetos profissionais.*  
