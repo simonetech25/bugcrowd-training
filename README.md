@@ -46,7 +46,7 @@ Profissional em formação na área de segurança ofensiva e automação com IA,
 
 ## 🌐 Contato
 
-🔗 [LinkedIn – Clique aqui](https://linkedin.com/in/simonetech25)  
+🔗 https://www.linkedin.com/in/simonecyber 
 📁 GitHub: [simonetech25](https://github.com/simonetech25)  
 ✉️ simoneazevedorosa@gmail.com
 ---
